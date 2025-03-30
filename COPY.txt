@@ -1,0 +1,10 @@
+local value = readInteger(0x322E0B2B15B8)
+if value == 2 then
+    writeInteger(0x322E0B2B15B8, 90000000)
+end
+
+
+
+harbinger_court_coins_cost = math.ceil( math.ceil((case * current_base_value) / 5) * (1 + 0.25 * math.floor((case - 1) / 13)) )
+
+approve_court_coins_change = math.ceil(case * approve_court_coins_base / 5)

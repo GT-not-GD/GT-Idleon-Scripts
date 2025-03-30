@@ -1,0 +1,1368 @@
+{
+  "default": {
+    "item_position": [1152, 959],
+    "codex_position": [1388, 959],
+    "quik_ref_position": [1184, 218],
+    "quik_ref": "C:\\All\\Games\\Idleon-Scripts\\jpg\\QUIK_REF.bmp",
+    "map_position": [1516, 959],
+    "map_world_5_position": [138, 190],
+    "candy_position": [1737, 348],
+    "auto_on": "C:\\All\\Games\\Idleon-Scripts\\jpg\\AUTOON.bmp",
+    "auto_off": "C:\\All\\Games\\Idleon-Scripts\\jpg\\AUTOOFF.bmp"
+  },
+  "afk": {
+    "candy_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\AFK_CANDY.bmp",
+    "claim_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\AFK_CLAIM.bmp",
+    "storage_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\AFK_STORAGE.bmp",
+    "gain_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\AFK_GAIN.bmp",
+    "gt_leg_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\GT_LEG.bmp"
+  },
+  "sailing": {
+    "boost_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\SAILING_BOOST.bmp",
+    "treasure_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\SAILING_TREASURE.bmp",
+    "chest_position": [1090, 149],
+    "treasure_position": [1190, 485]
+  },
+  "postman": {
+    "postman_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\POSTMAN.bmp",
+    "sign_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\POSTMAN-SIGN.bmp",
+    "refresh_coordinates": [152, 857]
+  },
+  "dungeon": {
+    "lootroll_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\DUNGEON_LOOTROLL.bmp",
+    "dice_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\DUNGEON_DICE.bmp"
+  },
+  "breeding": {
+    "pets": {
+      "1-1": "C:\\All\\Games\\Idleon-Scripts\\jpg\\GREENMUSHROOM.bmp",
+      "1-2": "C:\\All\\Games\\Idleon-Scripts\\jpg\\SQUIRREL.bmp",
+      "1-3": "C:\\All\\Games\\Idleon-Scripts\\jpg\\FROG.bmp",
+      "1-4": "C:\\All\\Games\\Idleon-Scripts\\jpg\\BEAN.bmp",
+      "1-5": "C:\\All\\Games\\Idleon-Scripts\\jpg\\REDMUSHROOM.bmp",
+      "1-6": "C:\\All\\Games\\Idleon-Scripts\\jpg\\SLIME.bmp",
+      "1-7": "C:\\All\\Games\\Idleon-Scripts\\jpg\\PIG.bmp",
+      "1-8": "C:\\All\\Games\\Idleon-Scripts\\jpg\\BABYBOA.bmp",
+      "1-9": "C:\\All\\Games\\Idleon-Scripts\\jpg\\CARROT.bmp",
+      "1-10": "C:\\All\\Games\\Idleon-Scripts\\jpg\\GLUBLIN.bmp",
+      "1-11": "C:\\All\\Games\\Idleon-Scripts\\jpg\\WODE.bmp",
+      "1-12": "C:\\All\\Games\\Idleon-Scripts\\jpg\\GIGAFROG.bmp",
+      "1-13": "C:\\All\\Games\\Idleon-Scripts\\jpg\\WILDBOAR.bmp",
+      "1-14": "C:\\All\\Games\\Idleon-Scripts\\jpg\\WALKINGSTICK.bmp",
+      "1-15": "C:\\All\\Games\\Idleon-Scripts\\jpg\\NUTTO.bmp",
+      "1-16": "C:\\All\\Games\\Idleon-Scripts\\jpg\\POOP.bmp",
+      "1-17": "C:\\All\\Games\\Idleon-Scripts\\jpg\\RAT.bmp",
+      "2-1": "C:\\All\\Games\\Idleon-Scripts\\jpg\\SANDYPOT.bmp",
+      "2-2": "C:\\All\\Games\\Idleon-Scripts\\jpg\\MIMIC.bmp",
+      "2-3": "C:\\All\\Games\\Idleon-Scripts\\jpg\\CRABCAKE.bmp",
+      "2-4": "C:\\All\\Games\\Idleon-Scripts\\jpg\\MAFIOSO.bmp",
+      "2-5": "C:\\All\\Games\\Idleon-Scripts\\jpg\\MALLY.bmp",
+      "2-6": "C:\\All\\Games\\Idleon-Scripts\\jpg\\SANDCASTLE.bmp",
+      "2-7": "C:\\All\\Games\\Idleon-Scripts\\jpg\\PINCERMIN.bmp",
+      "2-8": "C:\\All\\Games\\Idleon-Scripts\\jpg\\POTATO.bmp",
+      "2-9": "C:\\All\\Games\\Idleon-Scripts\\jpg\\TYSON.bmp",
+      "2-10": "C:\\All\\Games\\Idleon-Scripts\\jpg\\WHALE.bmp",
+      "2-11": "C:\\All\\Games\\Idleon-Scripts\\jpg\\MOONMOON.bmp",
+      "2-12": "C:\\All\\Games\\Idleon-Scripts\\jpg\\SANDGIANT.bmp",
+      "2-13": "C:\\All\\Games\\Idleon-Scripts\\jpg\\SNELBIE.bmp",
+      "2-14": "C:\\All\\Games\\Idleon-Scripts\\jpg\\DIGDOUG.bmp",
+      "2-15": "C:\\All\\Games\\Idleon-Scripts\\jpg\\BEEFIE.bmp",
+      "2-16": "C:\\All\\Games\\Idleon-Scripts\\jpg\\CRESCENT.bmp",
+      "3-1": "C:\\All\\Games\\Idleon-Scripts\\jpg\\SHEEPIE.bmp",
+      "3-2": "C:\\All\\Games\\Idleon-Scripts\\jpg\\FLAKE.bmp",
+      "3-3": "C:\\All\\Games\\Idleon-Scripts\\jpg\\SIRSTACHE.bmp",
+      "3-4": "C:\\All\\Games\\Idleon-Scripts\\jpg\\XYLOBONE.bmp",
+      "3-5": "C:\\All\\Games\\Idleon-Scripts\\jpg\\BUNNY.bmp",
+      "3-6": "C:\\All\\Games\\Idleon-Scripts\\jpg\\BLOQUE.bmp",
+      "3-7": "C:\\All\\Games\\Idleon-Scripts\\jpg\\MAMOOTH.bmp",
+      "3-8": "C:\\All\\Games\\Idleon-Scripts\\jpg\\SNOWMAN.bmp",
+      "3-9": "C:\\All\\Games\\Idleon-Scripts\\jpg\\PENGUIN.bmp",
+      "3-10": "C:\\All\\Games\\Idleon-Scripts\\jpg\\THERMISTER.bmp",
+      "3-11": "C:\\All\\Games\\Idleon-Scripts\\jpg\\QUENCHIE.bmp",
+      "3-12": "C:\\All\\Games\\Idleon-Scripts\\jpg\\CRYOSNAKE.bmp",
+      "3-13": "C:\\All\\Games\\Idleon-Scripts\\jpg\\MOUSE.bmp",
+      "3-14": "C:\\All\\Games\\Idleon-Scripts\\jpg\\BOPBOX.bmp",
+      "3-15": "C:\\All\\Games\\Idleon-Scripts\\jpg\\NEYEPTUNE.bmp",
+      "3-16": "C:\\All\\Games\\Idleon-Scripts\\jpg\\DEDOTATED.bmp",
+      "3-17": "C:\\All\\Games\\Idleon-Scripts\\jpg\\BLOODBONE.bmp",
+      "3-18": "C:\\All\\Games\\Idleon-Scripts\\jpg\\PANDA.bmp",
+      "4-1": "C:\\All\\Games\\Idleon-Scripts\\jpg\\PURPMUSHROOM.bmp",
+      "4-2": "C:\\All\\Games\\Idleon-Scripts\\jpg\\TV.bmp",
+      "4-3": "C:\\All\\Games\\Idleon-Scripts\\jpg\\DONUT.bmp",
+      "4-4": "C:\\All\\Games\\Idleon-Scripts\\jpg\\DEMON.bmp",
+      "4-5": "C:\\All\\Games\\Idleon-Scripts\\jpg\\WORM.bmp",
+      "4-6": "C:\\All\\Games\\Idleon-Scripts\\jpg\\DOG.bmp",
+      "4-7": "C:\\All\\Games\\Idleon-Scripts\\jpg\\SODACAN.bmp",
+      "4-8": "C:\\All\\Games\\Idleon-Scripts\\jpg\\CUBOID.bmp",
+      "4-9": "C:\\All\\Games\\Idleon-Scripts\\jpg\\CHOCCIE.bmp",
+      "4-10": "C:\\All\\Games\\Idleon-Scripts\\jpg\\WURM0.bmp",
+      "4-11": "C:\\All\\Games\\Idleon-Scripts\\jpg\\BIRD.bmp",
+      "4-12": "C:\\All\\Games\\Idleon-Scripts\\jpg\\CLAMMIE.bmp",
+      "4-13": "C:\\All\\Games\\Idleon-Scripts\\jpg\\OCTODAR.bmp",
+      "4-14": "C:\\All\\Games\\Idleon-Scripts\\jpg\\FLOMBEIGE.bmp",
+      "4-15": "C:\\All\\Games\\Idleon-Scripts\\jpg\\SEEKER.bmp",
+      "4-16": "C:\\All\\Games\\Idleon-Scripts\\jpg\\HEDGEHOG.bmp"
+    },
+    "breed_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\BREED.bmp",
+    "breed_01_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\BREED-01.bmp",
+    "trash_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\TRASH.bmp",
+    "keep_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\KEEP.bmp",
+    "egg_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\EGG.bmp",
+    "shiny_form_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\BREED_SHINY_FORM.bmp"
+  },
+  "gaming": {
+    "boost_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\GAME_BOOST.bmp",
+    "pc_position": [1729, 545],
+    "pc": "C:\\All\\Games\\Idleon-Scripts\\jpg\\PC.bmp",
+    "harvest_position": [1342, 77],
+    "harvest": "C:\\All\\Games\\Idleon-Scripts\\jpg\\GAME_HARVEST.bmp",
+    "mutation_position": [1644, 340],
+    "research_position": [1293, 276],
+    "shovel_position": [219, 207],
+    "evo_base_position": [550, 200],
+    "evo_end_position": [1280, 720]
+  },
+  "boss": {
+    "boss_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\BOSS.bmp"
+  },
+  "owl": {
+    "owl_01_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\OWL_01.bmp",
+    "owl_02_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\OWL_02.bmp",
+    "owl_03_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\OWL_03.bmp",
+    "owl_04_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\OWL_04.bmp",
+    "owl_05_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\OWL_05.bmp",
+    "owl_06_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\OWL_06.bmp",
+    "owl_07_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\OWL_07.bmp",
+    "owl_08_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\OWL_08.bmp",
+    "owl_09_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\OWL_09.bmp"
+  },
+  "farming": {
+    "boost_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\FARMING_BOOST.bmp",
+    "farm_position": [988, 515],
+    "collectall_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\FARMING_COLLECTALL.bmp"
+  },
+  "copy_item": {
+    "first_storage_position": [422, 359],
+    "ok_position": [1055, 427],
+    "first_bag_position": [1318, 346],
+    "execute_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\COPY_EXECUTE.bmp",
+    "execute_position": [1880, 947]
+  },
+  "paying": {
+    "boost_image": "C:\\All\\Games\\Idleon-Scripts\\jpg\\HOLE_BOOST.bmp",
+    "head_position": [917, 507],
+    "story_position": [883, 232],
+    "fight_position": [747, 263],
+    "sword_1_position": [380, 380],
+    "sword_2_position": [580, 380],
+    "sword_3_position": [760, 380],
+    "sword_4_position": [960, 380],
+    "sword_5_position": [1150, 380],
+    "sword_6_position": [1350, 380],
+    "sword_7_position": [1530, 380],
+    "treasure_1_position": [767, 380],
+    "run_position": [1161, 267],
+    "victory": "C:\\All\\Games\\Idleon-Scripts\\jpg\\PAYING_VICTORY.bmp"
+  },
+  "colo": {
+    "colo_w3": "C:\\All\\Games\\Idleon-Scripts\\jpg\\COLO_W3.bmp",
+    "colo_w5": "C:\\All\\Games\\Idleon-Scripts\\jpg\\COLO_W5.bmp",
+    "colo_enter": "C:\\All\\Games\\Idleon-Scripts\\jpg\\COLO_ENTER.bmp",
+    "colo_next_position": [697, 145],
+    "colo_w3_bone": "C:\\All\\Games\\Idleon-Scripts\\jpg\\COLO_W3_BONE.bmp",
+    "colo_start": "C:\\All\\Games\\Idleon-Scripts\\jpg\\COLO_START.bmp",
+    "colo_end": "C:\\All\\Games\\Idleon-Scripts\\jpg\\COLO_END.bmp",
+    "colo_exit_w3": [251, 808],
+    "colo_exit_w5": "C:\\All\\Games\\Idleon-Scripts\\jpg\\COLO_EXIT.bmp"
+  },
+  "justice": {
+    "cases": {
+      "the_harbinger_1": {
+		"text": "Blocked artery. Your spouse rushed you to the hospital at quite the pace, you should say thanks if you ever see them again! The bill is looking to be about X coins, are you ready to pay up?",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_THE_HARBINGER_1.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "dismiss",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": -4
+      },
+      "the_harbinger_2": {
+		"text": "It's a heart attack. You're currently in the hospital, you'll make a full recovery if you pay X coins for the best cardiologist.",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_THE_HARBINGER_2.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "dismiss",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": -5
+      },
+	  "the_harbinger_3": {
+		"text": "No no, I'm not here for you. It's... well, it's Little Timmy. After that 3rd rejection, he ran home crying and won't come out of his room. It's gonna cost you X coins to make him feel better, or you can just live with the guilt.",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_THE_HARBINGER_3.bmp",
+		"actions": {
+          "primary": "dismiss",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": -8
+      },
+	  "the_harbinger_4": {
+		"text": "Shark attack during a weekend hike in the ocean. You REALLY are quite the extravert. But, without proper care that wound is going to get a lot worse! It's gonna be X coins for full medicare.",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_THE_HARBINGER_4.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "dismiss",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": -3
+      },
+	  "the_harbinger_5": {
+		"text": "Snake attack during a weekend hike. You really are quite the extravert! But, the venom will cause quite a lot of stress if you don't buy the cure... last I checked, it currently goes for X coins.",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_THE_HARBINGER_5.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "dismiss",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": -4
+      },
+	  "the_harbinger_6": {
+		"text": "Someone you rejected is putting their plot into action... yea, like, right now. Don't be too surprised, you're really not that popular. You won't come out unscathed unless you pay X coins to hire a better Bailiff.",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_THE_HARBINGER_6.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "dismiss",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": -6
+      },
+	  "the_harbinger_7": {
+		"text": "Uh oh, looks like your bills finally got the better of you! I guess managing money ain't so easy after all. Look, if you give me X popularity, I'll save you the embarassment of an empty coffer.",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_THE_HARBINGER_7.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "dismiss",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        }
+      },
+	  "the_harbinger_8": {
+		"text": "Uhhh... hey...? Why am I here? You seem fine. But, since I AM here, I'm a bit short on rent. Soooo give me X coins, or I'll be taking 1 mental health of yours!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_THE_HARBINGER_8.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "dismiss",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": -3
+      },
+	  "the_harbinger_9": {
+		"text": "Well that Stream could have gone better... you're a Millennial judge, of course you stream in your free time. Look, unless you give me X coins to wipe your memory, you're going to feel REALLY bad for a long time. Like, really bad.",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_THE_HARBINGER_9.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "dismiss",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": -4
+      },
+	  "the_harbinger_10": {
+		"text": "You're broke...? AGAIN??? I even gave you a coin myself last time! Nope, you're not weaseling your way out of this one you sneaky beaky. Approve, reject, dismiss, I don't care, I'm taking some of your mental with me.",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_THE_HARBINGER_10.bmp",
+		"actions": {
+          "primary": "dismiss",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        }
+      },
+	  "the_harbinger_11": {
+		"text": "You're in a coma. Yea, car crash on your way to the next court case. You'll recover, but only if you pay X coins to cover the doctor fees.",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_THE_HARBINGER_11.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "dismiss",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": -4
+      },
+      "the_gratefulbinger": {
+        "text": "I've been watching you closely, and I wanted to thank you for everything you've done for the community with a gift of 5 coins, and 1 Retirement Chest!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_THE_GRATEFULBINGER.bmp",
+        "actions": {
+          "primary": "approve",
+          "secondary": "dismiss",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        }
+      },
+      "little_timmy_1": {
+        "text": "Can I has X coins pwease?",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_LITTLE_TIMMY_1.bmp",
+        "actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "Cost_Fizarre_Drink",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": -1,
+        "approve_popularity_base": 2,
+        "reject_popularity_base": -1
+      },
+      "little_timmy_2": {
+        "text": "Can u make today a holiday so school is no?",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_LITTLE_TIMMY_2.bmp",
+        "actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "coin_pop_ratio",
+          "operator": "less_than",
+          "value": 1
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "zero_coins_approve": true,
+        "approve_court_coins_base": -3,
+        "approve_popularity_base": 2
+      },
+      "little_timmy_3": {
+        "text": "Can u subskwibe to my yootoob channel pwease?? Is free!!!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_LITTLE_TIMMY_3.bmp",
+        "actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_popularity_base": 1,
+        "reject_popularity_base": -2
+      },
+      "little_timmy_4": {
+        "text": "Hewwo OwO can u tell everyone they are stinky heads? Also ummmmmmmm... are you skibbidy??!?",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_LITTLE_TIMMY_4.bmp",
+        "actions": {
+          "primary": "reject",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_popularity_base": -1,
+        "reject_popularity_base": 1
+      },
+      "little_timmy_5": {
+        "text": "I stole my fwends toy, and he said I am under arrest. Can I be free pwease? I will give u X coins... did I do bribe right? Daddy teached it to me today!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_LITTLE_TIMMY_5.bmp",
+        "actions": {
+          "primary": "reject",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": 1,
+        "approve_popularity_base": -1,
+        "reject_popularity_base": 1
+      },
+      "scripticus_1": {
+        "text": "Hey it's me, everyone's favorite wiggly piece of paper! I really want to help the next guy, can you PROMISE me you'll Approve the next case? I'll give you X coins. Please?",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_SCRIPTICUS_1.bmp",
+        "actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": 3,
+        "approve_popularity_base": 0,
+        "reject_popularity_base": 0,
+		"reject_popularity": -1,
+        "reject_court_coins_base": 0
+      },
+      "scripticus_2": {
+        "text": "Oh boy, I'm in the Justice Monument minigame again! Wanna trade some of your coins for my popularity? Also it's ok if you don't have enough coins, I have plenty of popularity to go around!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_SCRIPTICUS_2.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "coin_pop_ratio",
+          "operator": "less_than",
+          "value": 1
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "zero_coins_approve": true,
+        "approve_court_coins_base": -2,
+        "approve_popularity_base": 1,
+        "reject_popularity_base": -1
+      },
+      "scripticus_3": {
+        "text": "Can I get a X coin loan to buy my next kitchen in World 4? I play the game too you know! I'll give you back the coins plus interest next time you see me, AND you'll have my gratitude!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_SCRIPTICUS_3.bmp",
+        "actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": -2,
+        "approve_popularity_base": 1,
+        "reject_popularity_base": -1
+      },
+      "esquire_bored_bean_1": {
+        "text": "Huzzah, it is I! Would you like to buy a mental health, perchance? I doooo have the greatest mind ever to grace this court! All it will cost you is... HALF of all your coins!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_ESQUIRE_BORED_BEAN_1.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+		"half_coins_approve": true,
+        "approve_court_coins_base": 0,
+        "approve_popularity_base": 0,
+        "reject_popularity_base": 0,
+        "reject_court_coins_base": 0
+      },
+      "esquire_bored_bean_2": {
+        "text": "Hark, I have returned bearing the gift of a Retirement Chest, albeit only if you can solve my riddle. Tell me magistrate... as I am royalty, what action to me speaks loudest, yet not at all?",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_ESQUIRE_BORED_BEAN_2.bmp",
+		"actions": {
+          "primary": "dismiss",
+          "secondary": "approve",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_popularity": -1,
+        "reject_popularity": -1
+      },
+      "esquire_bored_bean_3": {
+        "text": "I have a deeeelightful proposition for you! Every time you Approve a case, I will give 4 coins. However, two rejections and I will make you infinitely unpopular. Any Case Dismissal will void this deal.",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_ESQUIRE_BORED_BEAN_3.bmp",
+        "actions": {
+          "primary": "reject",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        }
+      },
+      "esquire_bored_bean_4": {
+        "text": "Mmmm yeeees, charmed your honor. Perchance could I get a loan of all your money? I will give it all back next you see me, and you would make me one very happy bean oh hohoho yeeees!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_ESQUIRE_BORED_BEAN_4.bmp",
+        "actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "coin_pop_ratio",
+          "operator": "less_than",
+          "value": 1
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+		"full_coins_approve": true,
+		"approve_popularity": 12
+      },
+      "esquire_bored_bean_5": {
+        "text": "Ohohoho I have heard the stories about you judge! Oh yes indeed! Gulp gulp gulp, say no more! Shall we keep this a secret between us? Oh how I do LOVE secrets!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_ESQUIRE_BORED_BEAN_5.bmp",
+        "actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_popularity_base": 2,
+        "reject_popularity_base": -4
+      },
+      "cool_bird": {
+        "text": "Cool!!!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_COOL_BIRD.bmp",
+        "actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        }
+      },
+      "chippy": {
+        "text": "Eat me eat me eat me!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_CHIPPY.bmp",
+        "actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_popularity_base": 1,
+        "reject_popularity_base": -1
+      },
+      "ghost_1": {
+        "text": "Can you make it legal for me to scare people? I'll pay you handsomely, but I'll keep scaring 1 person every day, FOooOooOREVER...",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_GHOST_1.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "case_number",
+          "operator": "greater_than",
+          "value": 70
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": 6,
+        "reject_popularity": 1
+      },
+      "ghost_2": {
+        "text": "I'm done scaring people... I thought it was funny for a while, but now I just feel bad. Can you reinstate the ban, make it illegal again? I'll pay you!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_GHOST_2.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": 4
+      },
+      "grumblo": {
+        "text": "Me like coin. Me collect coin! You give me X coin, I give you random gift!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_GRUMBLO.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": -1
+      },
+      "fizarre_drink_1": {
+        "text": "I'm not a free drink, X coin please! My effects? Well, this time 'round I grant the consumer 2 dismissals, but I am known in the state of Blunder Hills to cause mental fatigue!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_FIZARRE_DRINK_1.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "mental_health",
+          "operator": "greater_than",
+          "value": 1
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": -1
+      },
+      "fizarre_drink_2": {
+		"text": "I'm not a free drink, X coin please! My effects? Well, this time 'round I grant the consumer a LOT of pop!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_FIZARRE_DRINK_2_.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": -4,
+        "approve_popularity_base": 1
+      },
+      "fizarre_drink_3": {
+		"text": "I'm not a free drink, X coin please! My effects? Well, this time 'round I grant the consumer a strange ability to never ever become unpopular! Like, ever!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_FIZARRE_DRINK_3.bmp",
+		"actions": {
+          "primary": "reject",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        }
+      },
+      "fizarre_drink_4": {
+		"text": "I'm not a free drink, X coin please! My effects? Well, this time around I grant the consumer some sort of Chest Magnetizer effect, lasts for 3 days I reckon...",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_FIZARRE_DRINK_4.bmp",
+		"actions": {
+          "primary": "reject",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        }
+      },
+      "fizarre_drink_5": {
+		"text": "I'm not a free drink, X coin please! My effects? Well, this time I'm just a normal drink, but there's a 1 in 4 chance I'm the limited edition glass all the internet nerds want to buy!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_FIZARRE_DRINK_5.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": -1
+      },
+      "mister_bribe_1": {
+		"text": "Aight, check it. I ain't done no dirty tricks this time, I got a shiny clean coin right 'ere, just for you! Seriously, take it!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_MISTER_BRIBE_1.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins": 1,
+        "reject_popularity": -1
+      },
+      "mister_bribe_2": {
+		"text": "Eyo was up my guy, I got a bit of a deal for ya. X coins, but you can't Approve that Little Timmy fella next you see him. Whatchu think?",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_MISTER_BRIBE_2.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": 3
+      },
+      "mister_bribe_3": {
+		"text": "Hey buddy, how's the grind going? Look, I got X coins on me, and you can have them all!!! Only thing is, for 3 days you won't be able to Approve anything...",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_MISTER_BRIBE_3.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "harbinger",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": 7
+      },
+      "mister_bribe_4": {
+		"text": "Hey friendo. Is me again, what's good? I got a huge score, and wanted to share some of it! Here, have X coins, but your mental health will take a hit when you hear the news tonight...",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_MISTER_BRIBE_4.bmp",
+		"actions": {
+          "primary": "reject",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "reject_popularity": 1
+      },
+      "mister_bribe_5": {
+		"text": "Hey pal, how we doin'? You lookin' for some extra cash? I got X coins on me, take em! Don't ask questions, 'specially 'bout where I got 'em from.",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_MISTER_BRIBE_5.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": 3,
+        "approve_popularity_base": -1,
+        "reject_popularity_base": 1
+      },
+      "mister_bribe_6": {
+		"text": "Ok dog hear me out, I had this dope idea while I was drying out yesterday... a reverse bribe! You give me X coins, and I'll boost your popularity",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_MISTER_BRIBE_6.bmp",
+        "actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": -1,
+        "approve_popularity_base": 1
+      },
+      "retirement_chester_1": {
+		"text": "Retirement is worth considering, trust me I'd know! I'll give you 1 retirement chest, but it'll cost you X coins.",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_RETIREMENT_CHESTER_1.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "ending",
+          "operator": true,
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": -3
+      },
+      "retirement_chester_2": {
+		"text": "Retirement is the top priority, trust me! I'll give you 1 retirement chest to get you going, but I'll be taking X coins and } popularity whether you have them or not!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_RETIREMENT_CHESTER_2.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "ending",
+          "operator": true,
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": -2,
+        "approve_popularity_base": -1
+      },
+      "retirement_chester_3": {
+		"text": "Retirement is the number one source of all things good, trust me! I'll give you 1 retirement chest completely free just to show you how right I am!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_RETIREMENT_CHESTER_3.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        }
+      },
+      "retirement_chester_4": {
+		"text": "Retirement is the key to happiness, trust me I'd know! I'll give you 1 retirement chest, but it'll cost you X popularity.",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_RETIREMENT_CHESTER_4.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "popularity",
+          "operator": "greater_than",
+          "value": 300
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_popularity_base": -1
+      },
+      "retirement_chester_5": {
+		"text": "Retirement is important, trust me I'd know! I'll give you 1 retirement chest, but it'll cost you X coins.",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_RETIREMENT_CHESTER_5.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "ending",
+          "operator": true,
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "approve_court_coins_base": -2
+      },
+      "retirement_chester_6": {
+		"text": "Retirement is everything, trust me I'd know! I'll give you 1 retirement chest, but I want 1 mental health... unless you're down to your last one, then you can have the chest free.",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_RETIREMENT_CHESTER_6.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "mental_health",
+          "operator": "equal_to",
+          "value": 1
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        }
+      },
+	  "reanimated_hand_1": {
+		"text": "Good going judge, your STUPID laws just got me arrested! You HAVE to pay my bail of X coins, you OWE me for enforcing such dumb rules!!!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_REAINMATED_HAND_1.bmp",
+		"actions": {
+          "primary": "reject",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+		"approve_court_coins_base": -3,
+		"approve_popularity_base": 1,
+		"reject_popularity_base": -1
+      },
+	  "reanimated_hand_2": {
+		"text": "Here judge, I brought the X coins I owe for my previous misdemeanors. Just shake my hand first, I promise I wont do anything to damage your mental health! Hehehe...",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_REAINMATED_HAND_2.bmp",
+		"actions": {
+          "primary": "reject",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        }
+      },
+	  "reanimated_hand_3": {
+		"text": "I got fined X coins by YOUR LAWS for using the 5 finger discount! Can you waive this fine? I really don't want to pay it!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_REAINMATED_HAND_3.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+		"approve_popularity_base": 1,
+		"reject_court_coins_base": 2,
+		"reject_popularity_base": -1
+      },
+	  "reanimated_hand_4": {
+		"text": "You are SO dumb, forcing me here whenever I break your dumb rules. Can you just make me above the law? I'll share part what I steal every time you see me, I'll even share the blame!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_REAINMATED_HAND_4.bmp",
+		"actions": {
+          "primary": "reject",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        }
+      },
+	  "reanimated_hand_5": {
+		"text": "You look richer than the guy I just stole from. Give me one of your retirement chests, and I'll tell all the other Reanimated Limbs back home what a legend you are!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_REAINMATED_HAND_5.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "ending&cheat",
+          "operator": true,
+          "value": 1
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+		"approve_popularity_base": 4,
+		"reject_popularity_base": -1
+      },
+	  "head_honcho_1": {
+		"text": "Good afternoon, I am seeking invesetment in my new Retirement Hedgefund! For just 1 Retirement Chest, you will receive royalties of 2 coins per day for 10 days!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_HEAD_HONCHO_1.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "case_number",
+          "operator": "less_than",
+          "value": 15
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        }
+      },
+	  "head_honcho_2": {
+		"text": "Good afternoon, I represent a third party who would like to buy your popularity, yes ALL of it, for 2 coins per pop. Would you be interested in this?",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_HEAD_HONCHO_2.bmp",
+		"actions": {
+          "primary": "reject",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        }
+      },
+	  "head_honcho_3": {
+		"text": "Greetings, I come to you today seeking a X coin investment in my time management company. I guarantee you a 250% return, but it will take 15 court cases to mature.",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_HEAD_HONCHO_3.bmp",
+		"actions": {
+          "primary": "reject",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        }
+      },
+	  "head_honcho_4": {
+		"text": "Greetings, I come to you today seeking a X popularity investment since my last company spilled some, well, accidentally spilled... look, I am willing to offer a LOT of coins!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_HEAD_HONCHO_4.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+		"approve_court_coins_base": 3,
+		"approve_popularity_base": -1,
+		"reject_popularity_base": 1
+      },
+	  "head_honcho_5": {
+		"text": "Greetings, I have a fantastic opportunity for you! For just X coins, I will invest in a crypto coin and will share the profits! 1 coin returned every day for 15 days!",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_HEAD_HONCHO_5.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+		"approve_court_coins": 6
+      },
+	  "head_honcho_6": {
+		"text": "Your honor, I seek an investment of X coins in order to grow my Student Loans company and acquire new victims. I promise your money will double by next time you see me.",
+        "image_path": "C:\\All\\Games\\Idleon-Scripts\\jpg\\JUSTICE\\JUSTICE_HEAD_HONCHO_6.bmp",
+		"actions": {
+          "primary": "approve",
+          "secondary": "reject",
+          "tertiary": "reject"
+        },
+        "primary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+        "secondary_condition": {
+          "type": "none",
+          "operator": "none",
+          "value": 0
+        },
+		"approve_court_coins_base": 3,
+		"approve_popularity": -1,
+		"reject_popularity": 2
+      }
+    }
+  }
+}
